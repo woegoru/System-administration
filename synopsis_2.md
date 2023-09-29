@@ -190,7 +190,7 @@
 
 *Простой план помещения, обеспечивающий открытое пространство:*
 
-![image](https://github.com/woegoru/System-administration/blob/task-for-the-synopsis-2/image2.jpg)
+![image](https://github.com/woegoru/System-administration/blob/task-for-the-synopsis-2/img-for-2.jpg)
 
 
 <ins>**Вывод:**</ins>
