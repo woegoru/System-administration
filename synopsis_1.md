@@ -10,7 +10,7 @@
 
 Модель жизненного цикла машины и ее ОС.
 
-![image](https://github.com/woegoru/System-administration/blob/task-for-the-synopsis-1/img-for-1.jpg)
+![image](img-for-1.jpg)
 
 Почему машина устаревает:
 - Во-первых, необходимо признать, что существуют различные состояния и переходы
