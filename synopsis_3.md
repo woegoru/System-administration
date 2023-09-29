@@ -345,7 +345,7 @@
 	-  Этап 8: Проверка исполнителем
 	-  Этап 9: Проверка пользователем
 
-![image](https://github.com/woegoru/System-administration/blob/task-for-the-synopsis-3/image3.jpg)
+![image](https://github.com/woegoru/System-administration/blob/task-for-the-synopsis-3/img-for-3.jpg)
  
 
 Внутреннее обучение должно быть основано на этой модели, чтобы системные администраторы последовательно пользовались ею. Можно вносить улучшения, уделяя внимание каждому этапу.
