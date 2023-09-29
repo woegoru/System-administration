@@ -12,8 +12,8 @@ Important information will be collected here in a brief abstract form from vario
    - Computing centers
 
 3. The third synopsis is a task for a synopsis (the basis is the book "System and network administration. Practical Guide, 2nd edition. – Translated from English – St. Petersburg: Symbol-Plus, 2009. – 944 p."): 9-14 chapters
-  - Documentation
-  - Security Policy
-  - Ethics
-    - Ethical Code of the system administrator
-  - Working with the user
+   - Documentation
+   - Security Policy
+   - Ethics
+     - Ethical Code of the system administrator
+   - Working with the user
