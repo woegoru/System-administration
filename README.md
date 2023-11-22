@@ -8,3 +8,5 @@ Important information will be collected here in a brief abstract form from vario
 2. The second synopsis is a task for a synopsis (the basis is the book "System and network administration. Practical Guide, 2nd edition. – Translated from English – St. Petersburg: Symbol-Plus, 2009. – 944 p."): 5-6 chapters
 
 3. The third synopsis is a task for a synopsis (the basis is the book "System and network administration. Practical Guide, 2nd edition. – Translated from English – St. Petersburg: Symbol-Plus, 2009. – 944 p."): 9-14 chapters
+
+4. The fourth synopsis is a task for a synopsis about using SеLinux
